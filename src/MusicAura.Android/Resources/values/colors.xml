@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#3D5AFE</color>
+    <color name="launcher_background">#1A237E</color>
+    <color name="card_stroke">#33808080</color>
+</resources>

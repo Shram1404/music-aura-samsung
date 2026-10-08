@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Aura</string>
+    <string name="tagline">One playlist — phone, Bluetooth and TV in sync</string>
+
+    <string name="status_idle">Choose outputs below and press Play.</string>
+    <string name="status_starting">Connecting outputs…</string>
+    <string name="status_calibrating">Calibrating with the microphone — keep the room quiet for a few seconds…</string>
+    <string name="status_ready">Session running. Press Play.</string>
+    <string name="status_playing">Playing on %1$s</string>
+    <string name="status_paused">Paused</string>
+
+    <string name="section_now">Now playing</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="starting">starting…</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="stop">Stop</string>
+
+    <string name="section_outputs">Outputs</string>
+    <string name="find_tvs">Find TVs</string>
+    <string name="searching">Searching…</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="disconnect">Disconnect all</string>
+    <string name="no_outputs">No outputs yet. Connect the Bluetooth speaker or tap “Find TVs”.</string>
+    <string name="tv_hint">First time only: the Samsung TV asks whether to allow this phone — choose Allow.</string>
+    <string name="offset">Offset %1$s ms</string>
+    <string name="volume">Volume</string>
+    <string name="latency_measured">latency %1$s ms · measured %2$s</string>
+    <string name="latency_assumed">latency %1$s ms · not measured yet</string>
+    <string name="sync_info">sync %1$s ms · rate %2$s ppm</string>
+    <string name="drift_info">clock drift %1$s ppm</string>
+    <string name="kind_local">phone</string>
+    <string name="kind_network">TV / DLNA</string>
+    <string name="status_connecting">connecting</string>
+    <string name="status_buffering">buffering</string>
+    <string name="status_active">active</string>
+    <string name="status_error">error</string>
+    <string name="status_off">off</string>
+
+    <string name="section_playlist">Playlist</string>
+    <string name="add_files">Add files</string>
+    <string name="add_library">All music</string>
+    <string name="clear">Clear</string>
+    <string name="playlist_empty">The playlist is empty.</string>
+    <string name="removed">Removed from playlist</string>
+
+    <string name="section_settings">Settings</string>
+    <string name="auto_calibrate">Calibrate automatically (at start and when the TV reconnects)</string>
+    <string name="drift">Follow the TV’s clock drift</string>
+    <string name="instant_pause">Instant pause (mutes the TV for a moment)</string>
+    <string name="repeat">Repeat playlist</string>
+    <string name="format_button">TV stream: %1$s</string>
+    <string name="http_button">HTTP: %1$s</string>
+    <string name="show_log">Diagnostics log</string>
+    <string name="settings_apply_next">Applies the next time outputs connect.</string>
+
+    <string name="calibration_ok">Calibrated: %1$s</string>
+    <string name="calibration_failed">Calibration problem: %1$s</string>
+    <string name="mic_needed">Microphone access is needed for automatic calibration. Without it, adjust the offsets by ear.</string>
+    <string name="notification_channel">Playback</string>
+    <string name="notification_idle">Connected</string>
+</resources>

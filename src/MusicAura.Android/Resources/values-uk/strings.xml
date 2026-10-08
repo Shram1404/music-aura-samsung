@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Aura</string>
+    <string name="tagline">Один плейлист — телефон, Bluetooth і телевізор синхронно</string>
+
+    <string name="status_idle">Оберіть пристрої нижче й натисніть «Грати».</string>
+    <string name="status_starting">Підключення пристроїв…</string>
+    <string name="status_calibrating">Калібрування мікрофоном — кілька секунд тиші, будь ласка…</string>
+    <string name="status_ready">Сеанс активний. Натисніть «Грати».</string>
+    <string name="status_playing">Грає на: %1$s</string>
+    <string name="status_paused">Пауза</string>
+
+    <string name="section_now">Зараз грає</string>
+    <string name="nothing_playing">Нічого не грає</string>
+    <string name="starting">запуск…</string>
+    <string name="play">Грати</string>
+    <string name="pause">Пауза</string>
+    <string name="prev">Назад</string>
+    <string name="next">Далі</string>
+    <string name="stop">Стоп</string>
+
+    <string name="section_outputs">Пристрої</string>
+    <string name="find_tvs">Знайти TV</string>
+    <string name="searching">Пошук…</string>
+    <string name="calibrate">Калібрувати</string>
+    <string name="disconnect">Відключити все</string>
+    <string name="no_outputs">Поки немає пристроїв. Підключіть Bluetooth-колонку або натисніть «Знайти TV».</string>
+    <string name="tv_hint">Лише перший раз: телевізор Samsung спитає, чи дозволити цей телефон — оберіть «Дозволити».</string>
+    <string name="offset">Зсув %1$s мс</string>
+    <string name="volume">Гучність</string>
+    <string name="latency_measured">затримка %1$s мс · виміряно %2$s</string>
+    <string name="latency_assumed">затримка %1$s мс · ще не виміряно</string>
+    <string name="sync_info">синхр. %1$s мс · швидкість %2$s ppm</string>
+    <string name="drift_info">дрейф годинника %1$s ppm</string>
+    <string name="kind_local">телефон</string>
+    <string name="kind_network">TV / DLNA</string>
+    <string name="status_connecting">підключення</string>
+    <string name="status_buffering">буферизація</string>
+    <string name="status_active">активний</string>
+    <string name="status_error">помилка</string>
+    <string name="status_off">вимкнено</string>
+
+    <string name="section_playlist">Плейлист</string>
+    <string name="add_files">Додати файли</string>
+    <string name="add_library">Уся музика</string>
+    <string name="clear">Очистити</string>
+    <string name="playlist_empty">Плейлист порожній.</string>
+    <string name="removed">Видалено з плейлиста</string>
+
+    <string name="section_settings">Налаштування</string>
+    <string name="auto_calibrate">Автокалібрування (на старті й коли TV перепідключається)</string>
+    <string name="drift">Компенсувати дрейф годинника TV</string>
+    <string name="instant_pause">Миттєва пауза (на мить вимикає звук TV)</string>
+    <string name="repeat">Повторювати плейлист</string>
+    <string name="format_button">Потік для TV: %1$s</string>
+    <string name="http_button">HTTP: %1$s</string>
+    <string name="show_log">Журнал діагностики</string>
+    <string name="settings_apply_next">Застосується при наступному підключенні пристроїв.</string>
+
+    <string name="calibration_ok">Відкалібровано: %1$s</string>
+    <string name="calibration_failed">Проблема калібрування: %1$s</string>
+    <string name="mic_needed">Для автокалібрування потрібен доступ до мікрофона. Без нього підлаштуйте зсув на слух.</string>
+    <string name="notification_channel">Відтворення</string>
+    <string name="notification_idle">Підключено</string>
+</resources>
